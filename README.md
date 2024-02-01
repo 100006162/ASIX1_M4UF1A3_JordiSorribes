@@ -1,6 +1,4 @@
 # ASIX1_M4_UF1_A3_JordiSorribes
-Apuntes:
-
 # GITHUB
 **Git**
 
