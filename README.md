@@ -14,14 +14,20 @@ Una rama (branch) es una línea de desarrollo independiente que permite a los de
 Un commit es un registro de cambios realizados en el código fuente de un proyecto. Cada commit se acompaña de un mensaje descriptivo que resume los cambios introducidos.
 
 **Como clonar un Repositorio**
+```
 git clone <URL del repositorio>
-
-**Como subir los cambios**
-git push origin main
+```
 
 **Como añadir y confirmar cambios**
+```
 git add <nombre de archivo>
 git commit -m "Mensaje descriptivo del commit"
+```
+
+**Como subir los cambios**
+```
+git push origin main
+```
 
 # MARKDOWN
 **Tipos de Encabezados HTML**
