@@ -1,4 +1,6 @@
 # ASIX1_M4_UF1_A3_JordiSorribes
+Apuntes:
+
 # GITHUB
 **Git**
 
@@ -12,25 +14,20 @@ Una rama (branch) es una línea de desarrollo independiente que permite a los de
 Un commit es un registro de cambios realizados en el código fuente de un proyecto. Cada commit se acompaña de un mensaje descriptivo que resume los cambios introducidos.
 
 **Como clonar un Repositorio**
-```
 git clone <URL del repositorio>
-```
 
 **Como subir los cambios**
-```
 git push origin main
-```
 
 **Como añadir y confirmar cambios**
-```
 git add <nombre de archivo>
 git commit -m "Mensaje descriptivo del commit"
-```
+
 # MARKDOWN
 **Tipos de Encabezados HTML**
-En HTML, existen seis niveles de encabezados, identificados por las etiquetas <h1> hasta <h6>. La etiqueta <h1> representa el nivel de encabezado más importante y el <h6> el menos importante. La importancia disminuye a medida que aumenta el número del encabezado.
+En HTML, existen seis niveles de encabezados, identificados por las etiquetas **h1** hasta **h6**. La etiqueta **h1** representa el nivel de encabezado más importante y el **h6** el menos importante. La importancia disminuye a medida que aumenta el número del encabezado.
 <h1>Encabezado de Nivel 1</h1>
-<h2>Encabezado de Nivel 2</h2>
+<h2>Encabezado de Nivel 2</h2> 
 <h3>Encabezado de Nivel 3</h3>
 <h4>Encabezado de Nivel 4</h4>
 <h5>Encabezado de Nivel 5</h5>
@@ -64,42 +61,43 @@ El codigo se expresa con 3 comas y se interpreta asi:
   </div>
 </html>
 
-[Esto es un enlace](https://www.w3schools.com/html/default.asp "Enlace a la pagina de w3schools")
-[Esto es una imagen de ](https://github.com/100006162/ASIX1_M4UF1A3_JordiSorribes/blob/main/w3school.jpg "imagen de w3school")
+[Esto es un enlace de w3schools](https://www.w3schools.com/html/default.asp "Enlace a la pagina de w3schools")
+
+[Esto es una imagen de de w3school](https://github.com/100006162/ASIX1_M4UF1A3_JordiSorribes/blob/main/w3school.jpg "imagen de w3school")
 
 # HTML
 **Sintaxis HTML**
-- **<!DOCTYPE html>**: Define el tipo de documento como HTML5.
-- **<html>**: Define el comienzo y el final del documento HTML.
-- **<body>**: Contiene todo el contenido visible de la página.
-- **<head>**: Contiene metadatos, enlaces a archivos CSS, scripts, entre otros.
-- **<title>**: Define el título de la página que se muestra en la pestaña del navegador.
-- **<h1>, <h2>, <h3>, <h4>, <h5>, <h6>**: Encabezados que indican la importancia y jerarquía del texto.
-- **<div>**: Define una división o sección genérica en un documento HTML.
-- **<p>**: Define un párrafo de texto.
-- **<a>**: Define un hipervínculo que enlaza a otra página web o recurso.
-- **<br>**: Inserta un salto de línea o espacio en blanco.
-- **<ul>**: Define una lista no ordenada.
-- **<li>**: Define un elemento de la lista no ordenada.
-- **<ol>**: Define una lista ordenada.
-- **<li>**: Define un elemento de la lista ordenada.
-- **<link>**: Enlaza un documento con un recurso externo, como una hoja de estilo CSS.
-- **<img>**: Inserta una imagen en la página web.
-- **<video>**: Inserta un video en la página web.
-- **<tbody>**: Define el cuerpo de una tabla.
-- **<thead>**: Define la cabecera de una tabla.
-- **<table>**: Define una tabla.
-- **<tr>**: Define una fila en una tabla.
-- **<th>**: Define una celda de encabezado en una tabla.
-- **<tfoot>**: Define el pie de una tabla.
-- **<form>**: Define un formulario para recopilar información del usuario.
-- **<input>**: Define un campo de entrada en un formulario.
-- **<label>**: Etiqueta para un elemento de formulario.
-- **<article>**: Define un contenido independiente que podría estar embebido en otro contexto.
-- **<section>**: Define una sección de un documento.
-- **<aside>**: Define contenido relacionado que no está directamente relacionado con el contenido principal.
-- **<figure>**: Agrupa contenido relacionado y su leyenda.
-- **<audio>**: Inserta audio en la página web.
+- **!DOCTYPE html**: Define el tipo de documento como HTML5.
+- **html**: Define el comienzo y el final del documento HTML.
+- **body**: Contiene todo el contenido visible de la página.
+- **head**: Contiene metadatos, enlaces a archivos CSS, scripts, entre otros.
+- **title**: Define el título de la página que se muestra en la pestaña del navegador.
+- **h1**, **h2**, **h3**, **h4**, **h5**, **h6****: Encabezados que indican la importancia y jerarquía del texto.
+- **div**: Define una división o sección genérica en un documento HTML.
+- **p**: Define un párrafo de texto.
+- **a**: Define un hipervínculo que enlaza a otra página web o recurso.
+- **br**: Inserta un salto de línea o espacio en blanco.
+- **ul**: Define una lista no ordenada.
+- **li**: Define un elemento de la lista no ordenada.
+- **ol**: Define una lista ordenada.
+- **li**: Define un elemento de la lista ordenada.
+- **link**: Enlaza un documento con un recurso externo, como una hoja de estilo CSS.
+- **img**: Inserta una imagen en la página web.
+- **video**: Inserta un video en la página web.
+- **tbody**: Define el cuerpo de una tabla.
+- **thead**: Define la cabecera de una tabla.
+- **table**: Define una tabla.
+- **tr**: Define una fila en una tabla.
+- **th**: Define una celda de encabezado en una tabla.
+- **tfoot**: Define el pie de una tabla.
+- **form**: Define un formulario para recopilar información del usuario.
+- **input**: Define un campo de entrada en un formulario.
+- **label**: Etiqueta para un elemento de formulario.
+- **article**: Define un contenido independiente que podría estar embebido en otro contexto.
+- **section**: Define una sección de un documento.
+- **aside**: Define contenido relacionado que no está directamente relacionado con el contenido principal.
+- **figure**: Agrupa contenido relacionado y su leyenda.
+- **audio**: Inserta audio en la página web.
 
 # CSS
 ## SELECTOR
